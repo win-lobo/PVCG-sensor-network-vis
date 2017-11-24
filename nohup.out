@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "onesqltojson.py", line 42, in <module>
+    time.sleep(UPDATE_INTERVAL)
+KeyboardInterrupt
